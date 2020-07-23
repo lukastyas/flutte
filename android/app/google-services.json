@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "455362878996",
+    "firebase_url": "https://bwa-fluttix-868ad.firebaseio.com",
+    "project_id": "bwa-fluttix-868ad",
+    "storage_bucket": "bwa-fluttix-868ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455362878996:android:e2aebf10b5d2723aff9101",
+        "android_client_info": {
+          "package_name": "com.lukastyas.bwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyZ0VkJA4KJeW4BAxr5JEM2ONO_u54D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455362878996:android:cf70bef3e4c00dfeff9101",
+        "android_client_info": {
+          "package_name": "com.lukastyas.bwafluttix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyZ0VkJA4KJeW4BAxr5JEM2ONO_u54D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455362878996:android:17646c9ce056eeceff9101",
+        "android_client_info": {
+          "package_name": "com.lukastyas.flutte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyZ0VkJA4KJeW4BAxr5JEM2ONO_u54D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455362878996-2nlom876gceio25e72m0aqjgrp9uhpv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
